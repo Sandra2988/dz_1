@@ -6,7 +6,6 @@ public class First {
         checkSumSign();
         printColor();
         compareNumbers();
-
     }
 
     public static void printThreeWords() {
